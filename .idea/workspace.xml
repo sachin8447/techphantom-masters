@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1343cb9b-2f9a-46d4-adca-6882f30f09e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2A3My1oFZnyUrcS7hljwo7x5Pwh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MastersApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="masters" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.techphantom.masters.MastersApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1343cb9b-2f9a-46d4-adca-6882f30f09e3" name="Default Changelist" comment="" />
+      <created>1654234065256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654234065256</updated>
+      <workItem from="1654234068936" duration="1875000" />
+    </task>
+    <task id="LOCAL-00001" summary="In Com">
+      <created>1654234262638</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654234262638</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="In Com" />
+    <option name="LAST_COMMIT_MESSAGE" value="In Com" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="22" key="CommitChangelistDialog2" timestamp="1654234261092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="22" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1654234261092" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1654234424094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1654234424094" />
+    <state x="650" y="312" width="259" height="200" key="Github.ShareDialog" timestamp="1654235406662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="650" y="312" width="259" height="200" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1654235406662" />
+    <state width="1478" height="252" key="GridCell.Tab.0.bottom" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.0.center" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.0.left" timestamp="1654234265709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1654234265709" />
+    <state width="1478" height="252" key="GridCell.Tab.0.right" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.1.bottom" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.1.center" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.1.left" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.1.right" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.2.bottom" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.2.center" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.2.left" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state width="1478" height="252" key="GridCell.Tab.2.right" timestamp="1654234265710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1478" height="252" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1654234265710" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1654234155956">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1654234155956" />
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2" timestamp="1654236048250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="149" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1654236048250" />
+    <state x="580" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1654234335182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="580" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1654234335182" />
+    <state x="461" y="217" key="git4idea.merge.GitPullDialog" timestamp="1654235967364">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="217" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1654235967364" />
+    <state x="602" y="301" width="332" height="336" key="git4idea.rebase.GitRebaseDialog" timestamp="1654234327019">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="301" width="332" height="336" key="git4idea.rebase.GitRebaseDialog/0.0.1536.824@0.0.1536.824" timestamp="1654234327019" />
+    <state x="585" y="320" key="git4idea.ui.GitResetDialog" timestamp="1654234687968">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="585" y="320" key="git4idea.ui.GitResetDialog/0.0.1536.824@0.0.1536.824" timestamp="1654234687968" />
+    <state x="585" y="323" key="git4idea.ui.GitStashDialog" timestamp="1654235986357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="585" y="323" key="git4idea.ui.GitStashDialog/0.0.1536.824@0.0.1536.824" timestamp="1654235986357" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1654234176073">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1654234176073" />
+    <state x="249" y="179" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1654235975628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="179" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1536.824@0.0.1536.824" timestamp="1654235975628" />
+  </component>
+</project>
